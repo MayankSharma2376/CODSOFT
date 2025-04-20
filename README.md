@@ -6,3 +6,5 @@ Project1 - Calculator
 Project2 - Game_RPS
 <br>
 Project3 - Password_Generator
+<br>
+Author Name : Mayank Sharma
